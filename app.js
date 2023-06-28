@@ -1,7 +1,7 @@
 const question = [
     
     {
-        question:"the demand of pakistan is based on",
+        question:"The demand of pakistan is based on",
         answer:[
             {text:"development of muslims",correct: false },
             {text:"two nation theory",correct: true },
@@ -11,7 +11,7 @@ const question = [
         ]
     },
     {
-        question:"pakistan became a member of the uno in the year",
+        question:"Pakistan became a member of the uno in the year",
         answer:[
             {text:"1947",correct: false},
             {text:"1948",correct: true },
@@ -21,7 +21,7 @@ const question = [
         ]
     },
     {
-        question:"the major import of pakistan is",
+        question:"The major import of pakistan is",
         answer:[
             {text:"petroleum",correct: true },
             {text: "leather goods",correct: false },
@@ -31,7 +31,7 @@ const question = [
         ]
     },
     {
-        question:"best university in pakistan",
+        question:"Best university in pakistan",
         answer:[
             {text:"NED",correct: false},
             {text: "ku",correct: false },
@@ -40,7 +40,7 @@ const question = [
 
         ]
     },{
-        question:"who is the current world best batsman",
+        question:"Who is the current world best batsman",
         answer:[
             {text:"virat kohli",correct: false},
             {text: "BABAR AZAM",correct: true},
@@ -50,7 +50,7 @@ const question = [
         ]
     },
     {
-        question:"alama iqbal was born in thr city",
+        question:"Alama iqbal was born in thr city",
         answer:[
             {text:"sailkot",correct: true },
             {text:"karachi",correct: false },

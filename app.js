@@ -84,7 +84,7 @@ function showQuestion(){
     // ansBtn.innerHTML=currentquestion.answer 
     const button = document.createElement("button")
     button.innerHTML = answer.text
-    button.classList.add(`btn`)
+    button.classList.add(`btn`) 
     ansBtn.appendChild(button)
     if(answer.correct){
       button.dataset.correct=answer.correct ; 
